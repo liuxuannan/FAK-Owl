@@ -1,0 +1,16 @@
+train_file: ["../data/DGM4/medadata_split/usa_today/train.json"]
+val_file: ["../data/DGM4/medadata_split/usa_today/test.json"]
+
+bert_config: 'configs/config_bert.json'
+image_res: 224
+batch_size_train: 64
+batch_size_val: 1
+max_words: 50
+
+
+
+
+
+
+
+

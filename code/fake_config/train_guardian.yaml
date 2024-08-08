@@ -1,0 +1,19 @@
+train_file: ["../data/DGM4/medadata_split/train.json"]
+val_file: ["../data/DGM4/medadata_split/guardian/val.json"]
+
+
+
+bert_config: 'configs/config_bert.json'
+
+image_res: 224
+batch_size_train: 2
+batch_size_val: 1
+max_words: 50
+
+
+
+
+
+
+
+
